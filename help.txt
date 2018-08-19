@@ -1,0 +1,1 @@
+net start mongodb   ====> to run mongodb server in task manager
